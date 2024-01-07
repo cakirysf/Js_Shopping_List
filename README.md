@@ -1,6 +1,6 @@
 <h1>Alış Veriş Listesi | Shopping List</h1>
 
-<p>HTML, CSS, JAVASCRİPT kullanılarak yapılmış Alış Veriş Listesi</p>
+<p>HTML, CSS, JAVASCRIPT kullanılarak yapılmış Alış Veriş Listesi</p>
 
 <ul>
   <li>Shopping List</li>
